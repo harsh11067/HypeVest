@@ -1,0 +1,10 @@
+/mnt/c/Users/kumar/OneDrive/Desktop/HypeVest/contracts/prediction_market/target/wasm32-unknown-unknown/release/deps/serde_name-aa530d631038d670.d: /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/mnt/c/Users/kumar/OneDrive/Desktop/HypeVest/contracts/prediction_market/target/wasm32-unknown-unknown/release/deps/libserde_name-aa530d631038d670.rlib: /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/mnt/c/Users/kumar/OneDrive/Desktop/HypeVest/contracts/prediction_market/target/wasm32-unknown-unknown/release/deps/libserde_name-aa530d631038d670.rmeta: /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs:
+/home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs:
+/home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs:
+/home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs:

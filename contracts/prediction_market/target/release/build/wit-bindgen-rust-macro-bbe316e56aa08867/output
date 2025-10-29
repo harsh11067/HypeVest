@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=DEBUG_OUTPUT_DIR=/mnt/c/Users/kumar/OneDrive/Desktop/HypeVest/contracts/prediction_market/target/release/build/wit-bindgen-rust-macro-bbe316e56aa08867/out

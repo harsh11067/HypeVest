@@ -1,0 +1,10 @@
+/mnt/c/Users/kumar/OneDrive/Desktop/HypeVest/contracts/prediction_market/target/release/deps/wit_bindgen_core-4e41fd6e24f01035.d: /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/mnt/c/Users/kumar/OneDrive/Desktop/HypeVest/contracts/prediction_market/target/release/deps/libwit_bindgen_core-4e41fd6e24f01035.rlib: /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/mnt/c/Users/kumar/OneDrive/Desktop/HypeVest/contracts/prediction_market/target/release/deps/libwit_bindgen_core-4e41fd6e24f01035.rmeta: /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs:
+/home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs:
+/home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs:
+/home/hash/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs:
